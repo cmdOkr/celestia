@@ -1,0 +1,11 @@
+body{
+  background: #f2f7fe;
+}
+@font-face {
+  font-family: 'Arial';
+  src: url('/fonts/Arial.ttf');
+}
+@font-face {
+  font-family: 'DINAlternate';
+  src: url('/fonts/DIN Alternate Bold.ttf');
+}
